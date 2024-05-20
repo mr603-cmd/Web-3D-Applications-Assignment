@@ -1,7 +1,7 @@
 {
     "pageTextData": [
 		{
-			"title": "Coca Cola Great Britain",
+			"title": " Great Britain",
 			"subTitle": "Founded in 1886 Dr John S Pemberton",		
 			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
 		},
@@ -19,6 +19,11 @@
 			"title": "Dr Pepper",
 			"subTitle": "Texas, 1885",		
 			"description": "Dr Pepper's unique, sparkling blend of 23 fruit flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. The distinctive, bold taste of Dr Pepper has been popular ever since."
+		},
+		{
+			"title": "Fanta",
+			"subTitle": "Texas, 1885",		
+			"description": "Fantas unique, sparkling blend of 23 fruit flavours has been around for well over a century and its still the same, with that distinctive flavour you just cant quite put your tongue on. It was created by Texas pharmacist Charles Alderton in 1885. The distinctive, bold taste of Dr Pepper has been popular ever since."
 		},
 		{
 			"x3dModelTitle": "Coca Cola X3D Model",
@@ -43,7 +48,7 @@
 		},
 		{
 			"galleryTitle": "3D Images",
-			"galleryDescription": "These 3D images of the Coke can, Sprite bottle and Dr Pepper cup are rendered in 3ds Max 2017 with Mental Ray"
+			"galleryDescription": "These 3D images of the Coke can, Sprite bottle and Dr Pepper cup are rendered in Blender."
 		},
 		{
 			"CameraTitle": "Camera Views",

@@ -15,6 +15,11 @@ function pepperScene(){
     document.getElementById('SceneSwitch').setAttribute('whichChoice', nSwitch);
 }
 
+function fantaScene(){
+    nSwitch = 3;
+    document.getElementById('SceneSwitch').setAttribute('whichChoice', nSwitch);
+}
+
 var spinning = false;
 
 function spin()
